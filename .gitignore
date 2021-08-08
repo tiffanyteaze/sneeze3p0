@@ -13,3 +13,4 @@ upload
 deploy.log
 npm-debug.log
 .env
+config.json
