@@ -1,0 +1,24 @@
+{
+  "name": "sneeze3p0",
+  "version": "1.0.0",
+  "description": "Discord utility bot for #nightcheese server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffanyteaze/sneeze3p0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffanyteaze/sneeze3p0/issues"
+  },
+  "homepage": "https://github.com/tiffanyteaze/sneeze3p0#readme",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0"
+  }
+}
