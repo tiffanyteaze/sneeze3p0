@@ -14,3 +14,4 @@ deploy.log
 npm-debug.log
 .env
 config.json
+sneeze3p0.pem
